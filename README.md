@@ -17,3 +17,4 @@ A Chrome extension for downloading private Google Drive videos that are not norm
 3. Two new URLs should appear in the extension. If they do not, play the video and seek forward a few seconds.
 4. Click the three-dot menu next to each URL to download the video and audio files separately.
 5. Play both files together using a media player such as VLC, or merge them into a single file with a video editor.
+**IMPORTANT:DISABLE THE EXTENSION AFTER USAGE!**
